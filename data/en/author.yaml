@@ -1,6 +1,6 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Fabian Moertter"
+nickname: "Fabian"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/john.png"
@@ -8,7 +8,7 @@ image: "images/author/john.png"
 contactInfo:
   email: "johndoe@example.com"
   phone: "+0123456789"
-  github: johndoe
+  github: FabianMoertter
   linkedin: johndoe
   researchgate: john-doe
 
