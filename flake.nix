@@ -21,6 +21,9 @@
 	  nodejs
         ];
 	shellHook = ''
+	  hugo mod tidy
+	  hugo mod npm pack
+	  npm install
 	  echo 'Flake for Hugo activated'
 	'';
       };
