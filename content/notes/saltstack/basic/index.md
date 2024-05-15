@@ -8,3 +8,12 @@ menu:
     parent: notes-saltstack
     weight: 10
 ---
+
+<!-- Salt Keys -->
+{{< note title="Salt Keys">}}
+Check status of SSH keys
+
+```
+salt-key -L
+```
+{{< /note >}}
