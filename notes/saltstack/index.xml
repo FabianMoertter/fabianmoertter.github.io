@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SaltStack on Fabian's Blog</title><link>https://fabian-moertter.github.io/notes/saltstack/</link><description>Recent content in SaltStack on Fabian's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://fabian-moertter.github.io/notes/saltstack/index.xml" rel="self" type="application/rss+xml"/><item><title>Basics</title><link>https://fabian-moertter.github.io/notes/saltstack/basic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fabian-moertter.github.io/notes/saltstack/basic/</guid><description> Salt Keys Check status of SSH keys
 salt-key -L Accept key
 salt-key -a &amp;lt;name&amp;gt; Accept all keys
-salt-key -A</description></item></channel></rss>
+salt-key -A Salt Paths /etc/ /opt/ /srv/var/salt/</description></item></channel></rss>
