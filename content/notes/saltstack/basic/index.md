@@ -16,4 +16,14 @@ Check status of SSH keys
 ```
 salt-key -L
 ```
+
+Accept key
+```
+salt-key -a <name>
+```
+
+Accept all keys
+```
+salt-key -A
+```
 {{< /note >}}
