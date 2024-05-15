@@ -27,3 +27,8 @@ Accept all keys
 salt-key -A
 ```
 {{< /note >}}
+
+<!-- Salt Paths -->
+{{< note title="Salt Paths">}}
+`/etc/` `/opt/` `/srv/var/salt/`
+{{< /note >}}
