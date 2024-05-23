@@ -9,10 +9,10 @@ menu:
 # Docker Notes
 
 <!-- Run Images -->
-{{< note title="Variable" >}}
+<!-- {{< note title="Variable" >}} -->
 
-```bash
-docker run -it <image-name>
-```
+<!-- ```bash -->
+<!-- docker run -it <image-name> -->
+<!-- ``` -->
 
-{{< /note >}}
+<!-- {{< /note >}} -->
