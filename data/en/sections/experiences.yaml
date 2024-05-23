@@ -20,23 +20,21 @@ experiences:
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: DevOps Engineer
+    start: Mar 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - DevOps
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
 
 - company:
     name: Paul-Ehrlich-Institut
@@ -47,9 +45,9 @@ experiences:
     # darklogo: /images/sections/experiences/company2.jpg
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Data Scientist
+    start: Apr 2022
+    end: Feb 2024
     responsibilities:
     - Write lots of example codes.
     - Read lots of examples.
@@ -57,17 +55,17 @@ experiences:
 
 - company:
     name: LGC Genomics GmbH
-    url: "https://www.example.com"
+    url: "https://www.lgcgroup.com"
     location: Berlin, Germany
     logo: /images/sections/experiences/company3.jpg
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: LGC Genomics is a global life science tools company with a broad portfolio in genome efforts and offers a custom DNA sequencing service.
   positions:
-  - designation: Intern
-    start: Jun 2015
+  - designation: Bioinformatician NGS
+    start: Nov 2018
     end: Feb 2022
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - analysis of Next Generation Sequencing (NGS) projects.
+    - maintenance and development of NGS pipeline.
+    - focus on metagenomics projects.
