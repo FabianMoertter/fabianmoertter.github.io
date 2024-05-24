@@ -10,31 +10,32 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: M.Sc. in Bioinformatics
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2014-2017
   institution:
-    name: ABC University of Technology
-    url: "#"
+    name: University of Tuebingen
+    url: "https://www.uni-tuebingen.de/en"
+    url: ""
     logo: /images/sections/education/tech_college.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/tech_college.png
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+    scale: German Academic Grading
+    achieved: 1.2
+    # outOf: 4
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #   url: "#"
+- name: B.Sc. in Integrated Life Science
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2010-2013
   institution:
-    name: University of XYZ
+    name: University of Erlangen-Nuremberg
     url: "#"
     logo: /images/sections/education/university.jpg
     # Can optionally show a different logo for dark theme
