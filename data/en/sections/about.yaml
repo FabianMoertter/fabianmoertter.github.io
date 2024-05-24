@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: DevOps Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: SSC-Services GmbH
+  url: "https://www.ssc-services.de/en"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
@@ -30,7 +30,7 @@ socialLinks:
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/FabianMoertter"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
