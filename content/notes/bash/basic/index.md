@@ -32,4 +32,11 @@ elif [[ -n "$string" ]]; then
 fi
 ```
 
+<!-- Rename -->
+{{< note title="Rename" >}}
+
+```bash
+mv file.{txt,py}
+```
+
 {{< /note >}}
